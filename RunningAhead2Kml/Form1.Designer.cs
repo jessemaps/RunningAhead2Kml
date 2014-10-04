@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RA2KmlForm));
             this.label2 = new System.Windows.Forms.Label();
             this.logoPicture = new System.Windows.Forms.PictureBox();
             this.outputMessages = new System.Windows.Forms.Label();
@@ -350,6 +351,7 @@
             this.Controls.Add(this.selectFilePanel);
             this.Controls.Add(this.chooseColorsPanel);
             this.Controls.Add(this.logoPicture);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "RA2KmlForm";
             this.Text = "RunningAhead2Kml";
             this.Load += new System.EventHandler(this.RA2KmlForm_Load);
