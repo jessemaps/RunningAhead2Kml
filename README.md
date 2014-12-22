@@ -27,4 +27,4 @@ If a route has been used by a run and a bike workout, it will be named *Bike,Run
   * Click **_Convert File_** to perform the file conversion process.
 
 Once your KML is created, you can open in Google Earth or view with online map services such as ArcGIS Online. Here's an example of what you can do with your KML file in ArcGIS Online:  
-[![ArcGIS Online example](tutorial/arcgisonline-ssht.png)](http://www.arcgis.com/apps/Viewer/index.html?appid=acc75c38d0464f0493fb1be79041834f)
+<a href="http://www.arcgis.com/apps/Viewer/index.html?appid=acc75c38d0464f0493fb1be79041834f" target="_blank"><img alt="ArcGIS Online example" src="tutorial/arcgisonline-ssht.png" /></a>
